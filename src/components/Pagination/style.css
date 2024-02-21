@@ -1,0 +1,14 @@
+.btn-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.page-btn {
+  padding: 10px;
+  background-color: #dcf2f1;
+  border: none;
+}
+
+.page-btn:hover {
+  background-color: #aad7d9;
+}

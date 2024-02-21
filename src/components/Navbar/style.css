@@ -1,0 +1,27 @@
+.nav-section {
+  background-color: #92c7cf;
+}
+
+.nav-wrapper {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-items {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links {
+  padding: 5px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.nav-links:hover {
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: #aad7d9;
+}

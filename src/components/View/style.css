@@ -1,0 +1,33 @@
+.page-wrapper {
+  padding: 15px;
+}
+
+.content-wrapper {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card-content {
+  width: 20rem;
+  gap: 10px;
+  padding: 5px;
+  border-radius: 0.5rem;
+  box-shadow: 0px 10px 8px #999;
+}
+
+.card-title {
+  padding: 5px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.card-description {
+  padding: 5px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  text-align: left;
+}
